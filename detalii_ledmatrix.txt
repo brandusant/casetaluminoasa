@@ -1,0 +1,6 @@
+Componente necesare:
+-Placa de dezvoltare Arduino Uno R3
+-5 x Module 8x8 LED Matrix
+-Baterie de 9V pentru alimentare
+-Fire de legatura
+-Carcasa din plastic
